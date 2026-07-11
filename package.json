@@ -1,0 +1,42 @@
+{
+  "name": "red-culture-knowledge-graph",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsx scripts/generate-exports.ts && tsc -b && vite build",
+    "preview": "vite preview",
+    "validate:data": "tsx scripts/validate-data.ts",
+    "generate:data": "tsx scripts/generate-exports.ts",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "e2e": "playwright test"
+  },
+  "dependencies": {
+    "cytoscape": "^3.34.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "zod": "^4.4.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "@playwright/test": "^1.57.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/cytoscape": "^3.21.9",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.1.1",
+    "@vitest/coverage-v8": "^4.1.0",
+    "jsdom": "^27.2.0",
+    "tsx": "^4.20.6",
+    "typescript": "~5.9.3",
+    "vite": "^8.1.0",
+    "vitest": "^4.1.0"
+  },
+  "packageManager": "pnpm@11.7.0"
+}
