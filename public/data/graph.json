@@ -7,7 +7,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，出席1921年在上海和嘉兴举行的会议。",
-      "description": "毛泽东作为长沙共产主义小组代表出席中国共产党第一次全国代表大会，是会议核心人物之一。",
+      "description": "毛泽东作为长沙共产党早期组织代表出席中国共产党第一次全国代表大会，是权威党史资料所列13名中方与会者之一。他参与大会进程，与各地与会者共同讨论建党纲领、工作计划和中央领导机构等议题。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -32,7 +32,7 @@
       "aliases": [],
       "siteScope": "cross_site",
       "summary": "中共一大代表，后来亦参与中共代表团在上海的工作。",
-      "description": "董必武作为武汉共产主义小组代表出席中共一大，1946年前后又参与中共代表团相关工作。",
+      "description": "董必武1921年作为武汉共产党早期组织代表出席中共一大；1946年又参与中共代表团驻沪办事处的筹设与工作，在办事处登记受阻时提出以“周公馆”名义公开挂牌，1947年率最后一批驻沪人员撤离。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -45,9 +45,9 @@
           "evidenceExcerpt": "董必武作为武汉代表出席中共一大。"
         },
         {
-          "sourceId": "SRC-003",
-          "locator": "周公馆简介",
-          "evidenceExcerpt": "董必武等中共代表团成员先后来沪开展工作。"
+          "sourceId": "SRC-022",
+          "locator": "“周公馆”诞生记第6—9段",
+          "evidenceExcerpt": "6月18日董必武提出“不让设立办事处，就称周公馆”；6月22日挂出周公馆户名牌。"
         }
       ],
       "layout": {
@@ -62,7 +62,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，上海共产主义小组的重要成员。",
-      "description": "李达作为上海共产主义小组代表参加中国共产党第一次全国代表大会。",
+      "description": "李达作为上海共产党早期组织代表参加中国共产党第一次全国代表大会，参与大会筹备和建党文件讨论；大会选举陈独秀、张国焘、李达组成中央局，李达负责宣传工作。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -87,7 +87,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，会议最初在其住所内举行。",
-      "description": "李汉俊作为上海共产主义小组代表出席中共一大，其住所成为会议早期会场。",
+      "description": "李汉俊作为上海共产党早期组织代表出席中共一大。上海阶段会议在其与兄长李书城的住所望志路106号举行；7月30日晚会场遭搜查后，他留在现场应对巡捕盘查。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -112,7 +112,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表北京共产主义小组参会。",
-      "description": "张国焘作为北京共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "张国焘作为北京共产党早期组织代表出席中国共产党第一次全国代表大会。权威党史资料将其列入13名中方与会者；在大会进程中，他主持会议并参与各地工作报告和建党文件讨论。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -137,7 +137,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表北京共产主义小组参会。",
-      "description": "刘仁静作为北京共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "刘仁静作为北京共产党早期组织代表出席中国共产党第一次全国代表大会，是权威党史资料所列13名中方与会者之一。他参加上海阶段会议，并随其他与会者参与建党纲领与工作任务讨论。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -162,7 +162,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表长沙共产主义小组参会。",
-      "description": "何叔衡作为长沙共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "何叔衡作为长沙共产党早期组织代表出席中国共产党第一次全国代表大会，与毛泽东同为长沙方面与会者。关于他是否参加嘉兴南湖最后一天会议，公开研究存在10人、11人两种口径，本图谱不作确定判断。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -187,7 +187,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表武汉共产主义小组参会。",
-      "description": "陈潭秋作为武汉共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "陈潭秋作为武汉共产党早期组织代表出席中国共产党第一次全国代表大会，与董必武同为武汉方面与会者。权威党史资料将其列入13名中方与会者，参加上海阶段的会议讨论。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -212,7 +212,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表济南共产主义小组参会。",
-      "description": "王尽美作为济南共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "王尽美作为济南共产党早期组织代表出席中国共产党第一次全国代表大会，与邓恩铭同为济南方面与会者。权威党史资料将其列入13名中方与会者，本图谱不在证据不足时断言其具体参会日程。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -237,7 +237,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表济南共产主义小组参会。",
-      "description": "邓恩铭作为济南共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "邓恩铭作为济南共产党早期组织代表出席中国共产党第一次全国代表大会，与王尽美同为济南方面与会者。权威党史资料将其列入13名中方与会者，参加上海阶段会议讨论。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -262,7 +262,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表广州共产主义小组参会。",
-      "description": "陈公博作为广州共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "陈公博作为广州共产党早期组织代表出席中国共产党第一次全国代表大会，是权威党史资料所列13名中方与会者之一。7月30日晚上海会场遭搜查时，他与会址主人李汉俊留在现场应对巡捕盘查。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -287,7 +287,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大代表，代表旅日共产主义小组参会。",
-      "description": "周佛海作为旅日共产主义小组代表出席中国共产党第一次全国代表大会。",
+      "description": "周佛海作为旅日共产党早期组织代表出席中国共产党第一次全国代表大会，是权威党史资料所列13名中方与会者之一。他参与大会期间的建党文件讨论；具体个人日程只在有直接证据时记录。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -311,18 +311,23 @@
       "name": "包惠僧",
       "aliases": [],
       "siteScope": "yida",
-      "summary": "受陈独秀委派出席中共一大，是会议代表之一。",
-      "description": "包惠僧受陈独秀委派出席中国共产党第一次全国代表大会，列入一大代表名单。",
+      "summary": "受陈独秀指定参加中共一大，是13名中方与会者之一，代表资格史料表述有异。",
+      "description": "包惠僧受当时在广州的陈独秀指定参加中国共产党第一次全国代表大会。通行党史名单将其计入13名中方与会者，中央档案研究则区分12名正式代表与陈独秀指定参会者，本图谱保留这一史料边界。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
-        "roles": "中共一大代表"
+        "roles": "陈独秀指定参会者（代表资格史料表述有异）"
       },
       "citations": [
         {
           "sourceId": "SRC-002",
           "locator": "中共一大代表名单",
           "evidenceExcerpt": "包惠僧受陈独秀委派出席中共一大。"
+        },
+        {
+          "sourceId": "SRC-014",
+          "locator": "中共一大代表人数的档案考证",
+          "evidenceExcerpt": "档案研究将大会人员区分为12名正式代表与陈独秀指定参会的包惠僧。"
         }
       ],
       "layout": {
@@ -339,7 +344,7 @@
       ],
       "siteScope": "yida",
       "summary": "共产国际代表，列席中国共产党第一次全国代表大会。",
-      "description": "马林作为共产国际代表来到中国并列席中国共产党第一次全国代表大会。",
+      "description": "马林作为共产国际代表列席中国共产党第一次全国代表大会，并与上海共产党早期组织成员商议尽快召开全国代表大会。他属于列席人员，不计入13名中方与会者；本图谱不据泛称材料推断其逐日行程。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -364,7 +369,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "共产国际远东书记处代表，列席中共一大。",
-      "description": "尼克尔斯基作为共产国际远东书记处代表列席中国共产党第一次全国代表大会。",
+      "description": "尼克尔斯基作为共产国际远东书记处代表列席中国共产党第一次全国代表大会，与马林同属列席人员，不计入13名中方与会者。本图谱只记录权威来源可直接支持的会议身份，不推断逐日行程。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -389,7 +394,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "1946年在上海周公馆工作生活，开展宣传和统一战线工作。",
-      "description": "周恩来在中共代表团驻沪办事处举行记者招待会、会见爱国民主人士并阐述和平民主主张。",
+      "description": "周恩来1946年在中共代表团驻沪办事处工作、生活，先后举行中外记者招待会，会见民主人士和文化界人士，说明国共谈判与时局，公开阐述和平民主主张并推动爱国民主统一战线工作。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -414,7 +419,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "中共代表团成员，参与周公馆相关工作并为旧址复原提供回忆。",
-      "description": "邓颖超曾在上海参与中共代表团工作，1981年又为周公馆内部陈设复原提供历史回忆。",
+      "description": "邓颖超是中共代表团成员，1946年参与代表团在上海的社会联络等工作。1981年，她与有关亲历者到周公馆旧址踏勘并提供回忆，为内部陈设校正和历史空间复原提供依据。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -425,6 +430,11 @@
           "sourceId": "SRC-003",
           "locator": "旧址修复沿革",
           "evidenceExcerpt": "1981年邓颖超等到旧址参观踏勘并提供回忆。"
+        },
+        {
+          "sourceId": "SRC-004",
+          "locator": "邓颖超名片藏品说明",
+          "evidenceExcerpt": "1946年7月18日，邓颖超前往探望养伤中的雷洁琼并留下名片。"
         }
       ],
       "layout": {
@@ -439,7 +449,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "中共代表团成员，曾赴上海周公馆开展工作。",
-      "description": "李维汉作为中共代表团成员之一，在1946年前后赴上海开展宣传与统一战线相关工作。",
+      "description": "李维汉作为中共代表团成员于1946年前后到上海开展工作。馆藏照片和周公馆资料记录了他与周恩来、郭沫若等人的活动，相关工作包括宣传和平民主主张以及联系各界人士。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -447,8 +457,8 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "重点文物相关说明",
+          "sourceId": "SRC-004",
+          "locator": "周恩来与郭沫若、李维汉合影说明",
           "evidenceExcerpt": "李维汉等中共代表团成员先后来沪开展工作。"
         }
       ],
@@ -464,7 +474,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "中共代表团成员，曾赴上海周公馆开展工作。",
-      "description": "陆定一作为中共代表团成员之一，在1946年前后赴上海开展公开宣传等相关工作。",
+      "description": "陆定一作为中共代表团成员于1946年前后到上海开展工作。周公馆馆藏说明将其列入先后来沪的代表团成员，其活动属于办事处公开宣传、社会联络和统一战线工作的组成部分。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -472,8 +482,8 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "重点文物相关说明",
+          "sourceId": "SRC-004",
+          "locator": "周恩来与郭沫若、李维汉合影说明",
           "evidenceExcerpt": "陆定一等中共代表团成员先后来沪开展工作。"
         }
       ],
@@ -491,7 +501,7 @@
       ],
       "siteScope": "longhua",
       "summary": "左联五烈士之一，1931年在龙华牺牲。",
-      "description": "柔石是中国左翼作家联盟成员，1931年被捕后在上海龙华牺牲，后被称为左联五烈士之一。",
+      "description": "柔石是中国左翼作家联盟成员和左联五烈士之一。1931年1月在上海被捕后被移解龙华监狱，2月7日晚与胡也频、殷夫、冯铿、李求实及其他19位革命者一同被秘密杀害。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -499,9 +509,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "柔石人物条目",
-          "evidenceExcerpt": "柔石为左联五烈士之一，1931年在龙华牺牲。"
+          "sourceId": "SRC-025",
+          "locator": "左联五烈士被捕名单与事件影响",
+          "evidenceExcerpt": "1931年1月17至18日，柔石、胡也频、殷夫、冯铿、李伟森先后被捕。"
         }
       ],
       "layout": {
@@ -516,7 +526,7 @@
       "aliases": [],
       "siteScope": "longhua",
       "summary": "左联五烈士之一，1931年在龙华牺牲。",
-      "description": "胡也频是中国左翼作家联盟成员，1931年被捕后在上海龙华牺牲，后被称为左联五烈士之一。",
+      "description": "胡也频是中国左翼作家联盟成员和左联五烈士之一。1931年1月在上海被捕后被移解龙华监狱，2月7日晚与柔石、殷夫、冯铿、李求实及其他19位革命者一同被秘密杀害。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -524,9 +534,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "胡也频人物条目",
-          "evidenceExcerpt": "胡也频为左联五烈士之一，1931年在龙华牺牲。"
+          "sourceId": "SRC-025",
+          "locator": "左联五烈士被捕名单与事件影响",
+          "evidenceExcerpt": "1931年1月17至18日，柔石、胡也频、殷夫、冯铿、李伟森先后被捕。"
         }
       ],
       "layout": {
@@ -543,7 +553,7 @@
       ],
       "siteScope": "longhua",
       "summary": "左联五烈士之一，1931年在龙华牺牲。",
-      "description": "殷夫是中国左翼作家联盟成员和革命诗人，1931年被捕后在上海龙华牺牲。",
+      "description": "殷夫是中国左翼作家联盟成员、革命诗人和左联五烈士之一。1931年1月在上海被捕后被移解龙华监狱，2月7日晚与其他23位革命者一同被秘密杀害，其诗歌与事迹成为左翼文化记忆的重要部分。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -551,9 +561,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "殷夫人物条目",
-          "evidenceExcerpt": "殷夫为左联五烈士之一，1931年在龙华牺牲。"
+          "sourceId": "SRC-025",
+          "locator": "左联五烈士被捕名单与事件影响",
+          "evidenceExcerpt": "1931年1月17至18日，柔石、胡也频、殷夫、冯铿、李伟森先后被捕。"
         }
       ],
       "layout": {
@@ -568,7 +578,7 @@
       "aliases": [],
       "siteScope": "longhua",
       "summary": "左联五烈士之一，1931年在龙华牺牲。",
-      "description": "冯铿是中国左翼作家联盟成员，1931年被捕后在上海龙华牺牲，后被称为左联五烈士之一。",
+      "description": "冯铿是中国左翼作家联盟成员和左联五烈士之一。1931年1月在上海被捕后被移解龙华监狱，2月7日晚与柔石、胡也频、殷夫、李求实及其他19位革命者一同被秘密杀害。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -576,9 +586,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "冯铿人物条目",
-          "evidenceExcerpt": "冯铿为左联五烈士之一，1931年在龙华牺牲。"
+          "sourceId": "SRC-025",
+          "locator": "左联五烈士被捕名单与事件影响",
+          "evidenceExcerpt": "1931年1月17至18日，柔石、胡也频、殷夫、冯铿、李伟森先后被捕。"
         }
       ],
       "layout": {
@@ -595,7 +605,7 @@
       ],
       "siteScope": "longhua",
       "summary": "左联五烈士之一，曾使用李伟森等笔名，1931年在龙华牺牲。",
-      "description": "李求实是中国左翼文化运动的重要成员，1928年起在文艺宣传工作中使用李伟森笔名，1931年被捕后在上海龙华牺牲。",
+      "description": "李求实是左翼文化运动成员和左联五烈士之一，1928年在上海从事文艺宣传工作时使用李伟森笔名。1931年1月被捕并移解龙华，2月7日晚与其他23位革命者一同被秘密杀害。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -622,7 +632,7 @@
       ],
       "siteScope": "yida",
       "summary": "本次研学第一站，系统展示中国共产党创建历史。",
-      "description": "中共一大纪念馆位于上海市黄浦区，现馆与历史会址共同构成面向公众开放的红色文化场馆。",
+      "description": "中共一大纪念馆位于上海市黄浦区黄陂南路374号，下辖中共一大会址、中共一大代表宿舍旧址（博文女校）和中共代表团驻沪办事处旧址（周公馆），通过基本陈列系统呈现中国共产党的诞生历程。",
       "isCore": true,
       "recordKind": "historical_fact",
       "routeStopOrder": 1,
@@ -654,7 +664,7 @@
       ],
       "siteScope": "yida",
       "summary": "1921年中共一大在上海开幕时使用的历史会场。",
-      "description": "会址位于原法租界望志路一带，是中国共产党第一次全国代表大会在上海召开时的重要历史空间。",
+      "description": "会址位于上海原法租界望志路106号，即今兴业路76号，是一幢1920年建成的石库门建筑。1921年7月23日中共一大在此开幕，7月30日晚第六次会议受到干扰并遭法租界巡捕搜查。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -682,17 +692,19 @@
       "name": "中国共产党代表团驻沪办事处旧址",
       "aliases": [
         "周公馆",
-        "周恩来将军私人寓所"
+        "周恩来将军官邸"
       ],
       "siteScope": "zhougongguan",
       "summary": "本次研学第二站，1946年中共代表团在上海的公开办事机构旧址。",
-      "description": "旧址位于上海思南路，对外曾称周恩来将军私人寓所，承担宣传、联络和统一战线等工作。",
+      "description": "历史旧址位于上海市黄浦区思南路73号，原门牌为思南路107号；相邻71号于1994年纳入纪念馆业务用房，当前参观地址为71、73号。1946年至1947年间，办事处以“周公馆”名义开展宣传、联络和统一战线工作。",
       "isCore": true,
       "recordKind": "historical_fact",
       "routeStopOrder": 2,
       "attributes": {
         "placeSubtype": "historic_site",
-        "modernAddress": "上海市黄浦区思南路71、73号",
+        "modernAddress": "上海市黄浦区思南路73号",
+        "historicalAddress": "上海市思南路107号",
+        "visitorAddress": "上海市黄浦区思南路71、73号",
         "longitude": 121.4674,
         "latitude": 31.2114
       },
@@ -700,7 +712,7 @@
         {
           "sourceId": "SRC-003",
           "locator": "周公馆简介与开放指南",
-          "evidenceExcerpt": "中共代表团驻沪办事处旧址又称周公馆，参观地址为思南路71、73号。"
+          "evidenceExcerpt": "旧址为思南路73号（原107号）；71号于1994年纳入业务用房，当前参观地址为思南路71、73号。"
         }
       ],
       "layout": {
@@ -717,7 +729,7 @@
       ],
       "siteScope": "longhua",
       "summary": "本次研学第三站，集纪念、教育和烈士褒扬功能于一体。",
-      "description": "上海市龙华烈士陵园位于龙华西路180号，设有墓、碑、馆等纪念设施，是重要的红色纪念空间。",
+      "description": "上海市龙华烈士陵园位于徐汇区龙华西路180号，依托龙华革命烈士纪念地及墓、碑、馆等设施，承担烈士纪念、史料研究、祭扫服务和公共教育功能，1995年7月1日建成并开放。",
       "isCore": true,
       "recordKind": "historical_fact",
       "routeStopOrder": 3,
@@ -732,6 +744,11 @@
           "sourceId": "SRC-005",
           "locator": "基本信息",
           "evidenceExcerpt": "具体地址为龙华西路180号，主要设施包括墓、碑、馆。"
+        },
+        {
+          "sourceId": "SRC-029",
+          "locator": "陵园沿革",
+          "evidenceExcerpt": "1995年7月1日，龙华烈士陵园建成并对外开放。"
         }
       ],
       "layout": {
@@ -749,7 +766,7 @@
       ],
       "siteScope": "yida",
       "summary": "中共一大由上海转移至嘉兴南湖后继续举行的历史地点。",
-      "description": "会议在上海受到干扰后转移到浙江嘉兴南湖，在游船上继续并完成重要议程。",
+      "description": "中共一大上海会场遭搜查后，与会者分批前往浙江嘉兴，以南湖游船作为相对隐蔽的流动会场，继续最后一天会议并完成重要议程。闭会具体日期仍有争议，因此本图谱不将某一日写成定论。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -777,18 +794,23 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大部分代表在上海会议期间住宿和联络的关联地点。",
-      "description": "博文女校旧址是一大在上海召开期间的重要关联空间，用于理解会议组织与代表活动网络。",
+      "description": "博文女校1920年迁至白尔路389号，即今太仓路127号。1921年中共一大召开前夕，多位外地代表以“北京大学暑期旅行团”名义在此借宿并开展会前交流；旧址经修缮后于2026年3月24日正式开放。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
         "placeSubtype": "associated_historic_site",
-        "modernAddress": "上海市黄浦区太仓路一带"
+        "modernAddress": "上海市黄浦区太仓路127号"
       },
       "citations": [
         {
           "sourceId": "SRC-002",
           "locator": "一大在沪活动地点",
           "evidenceExcerpt": "博文女校是中共一大相关代表在沪活动的重要地点。"
+        },
+        {
+          "sourceId": "SRC-031",
+          "locator": "旧址地址、历史用途与2026年开放信息",
+          "evidenceExcerpt": "博文女校1920年迁至白尔路389号（今太仓路127号）；旧址于2026年3月24日正式开馆。"
         }
       ],
       "layout": {
@@ -805,7 +827,7 @@
       ],
       "siteScope": "longhua",
       "summary": "近代上海关押革命者的历史地点，与龙华英烈史密切相关。",
-      "description": "龙华监狱旧址承载了革命者被关押的历史记忆，与后来龙华烈士纪念叙事相连接。",
+      "description": "龙华监狱旧址与原国民党淞沪警备司令部相关，是近代上海关押革命者的重要历史遗址。1931年大规模搜捕后，柔石等被捕者陆续被移解至此，狱中斗争与龙华二十四烈士事件由此相连。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -814,9 +836,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-009",
-          "locator": "龙华革命史资料",
-          "evidenceExcerpt": "龙华地区曾有关押革命者的历史设施。"
+          "sourceId": "SRC-026",
+          "locator": "1931年搜捕、关押与狱中斗争",
+          "evidenceExcerpt": "被捕者先被分处关押，后被解往位于龙华的原国民党淞沪警备司令部监狱。"
         }
       ],
       "layout": {
@@ -833,7 +855,7 @@
       ],
       "siteScope": "longhua",
       "summary": "多位革命烈士在龙华牺牲的历史地点。",
-      "description": "龙华就义地是上海革命史中的重要记忆空间，左联五烈士等革命者在龙华牺牲。",
+      "description": "龙华就义地是原国民党淞沪警备司令部旧址相关历史空间。1931年2月7日晚，柔石、胡也频、殷夫、冯铿、李求实等24位革命者在龙华被秘密杀害，后合称龙华二十四烈士。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -842,9 +864,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-011",
-          "locator": "左联五烈士史料",
-          "evidenceExcerpt": "左联五烈士于1931年在龙华牺牲。"
+          "sourceId": "SRC-028",
+          "locator": "1931年的今天，龙华二十四烈士遇难",
+          "evidenceExcerpt": "1931年1月中旬先后被捕，不久移解龙华，2月7日晚遭秘密杀害。"
         }
       ],
       "layout": {
@@ -861,7 +883,7 @@
       ],
       "siteScope": "cross_site",
       "summary": "三处研学核心点位所在城市，也是中国共产党创建活动的重要城市空间。",
-      "description": "上海串联中共一大会址、周公馆与龙华烈士陵园，形成跨时期的红色文化叙事网络。",
+      "description": "上海是本次研学三处核心点位所在城市。中共一大会址记录1921年的建党实践，周公馆记录1946至1947年的公开宣传与统一战线工作，龙华烈士陵园保存革命英烈纪念空间，三者共同构成跨时期学习网络。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -871,9 +893,19 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-009",
-          "locator": "上海革命史综述",
-          "evidenceExcerpt": "上海保存有多处中国革命历史遗址和纪念设施。"
+          "sourceId": "SRC-015",
+          "locator": "中共一大时间与地点",
+          "evidenceExcerpt": "1921年7月23日，中国共产党第一次全国代表大会在上海法租界望志路106号开幕。"
+        },
+        {
+          "sourceId": "SRC-003",
+          "locator": "周公馆简介",
+          "evidenceExcerpt": "周公馆是1946年周恩来在上海工作、生活过的地方。"
+        },
+        {
+          "sourceId": "SRC-029",
+          "locator": "龙华烈士陵园沿革",
+          "evidenceExcerpt": "1995年7月1日，龙华烈士陵园建成并对外开放。"
         }
       ],
       "layout": {
@@ -888,7 +920,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大从上海转移后完成会议的重要关联城市。",
-      "description": "嘉兴与上海共同构成中共一大由开幕到完成议程的空间链条，南湖是核心关联地点。",
+      "description": "嘉兴是中共一大由上海转移后继续最后一天会议的关联城市。与会者分批抵达嘉兴并在南湖游船上完成重要议程，使上海会址与嘉兴南湖共同构成中国共产党诞生历程的空间链条。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1000,7 +1032,7 @@
         "startDate": "1921-07",
         "endDate": "1921-08",
         "datePrecision": "range",
-        "certainty": "闭幕日期存在7月31日至8月5日六种说法，尚无定论"
+        "certainty": "闭幕日期有7月31日、8月1日、8月2日、8月5日四种主要观点，尚无定论"
       },
       "citations": [
         {
@@ -1025,9 +1057,9 @@
       },
       "narrative": {
         "background": "望志路会场遭搜查后，继续在上海集中开会风险很高，而纲领、工作决议和中央机构等议程尚待完成。熟悉嘉兴情况的王会悟建议利用南湖游船作流动会场，并参与交通、旅馆和租船安排。",
-        "process": "与会者分批由上海赴嘉兴，以游湖为掩护登上画舫，在湖面继续最后一天的会议。据王会悟回忆，她在船头放哨，桌上预置麻将牌作掩护，遇有船只靠近便叩击舱门提醒暂停讨论。相关党史资料记载，李汉俊、马林、尼克尔斯基、陈公博没有参加这一天的会议，其余与会者继续研究实际工作计划和大会文件。",
+        "process": "与会者分批由上海赴嘉兴，以游湖为掩护登上画舫，在湖面继续最后一天的会议。据王会悟回忆，她在船头放哨，桌上预置麻将牌作掩护，遇有船只靠近便叩击舱门提醒暂停讨论。关于当天具体参会人员，公开研究存在10人、11人等不同口径；本图谱只确认会议由上海转移至南湖，不把争议名单写成定论。",
         "significance": "由石库门转至南湖，使遭受干扰的大会得以继续，并为完成党的创建议程提供了相对隐蔽的环境。南湖红船后来成为中国共产党诞生历程的重要历史见证。",
-        "sourceNote": "南湖会议只能稳妥标为1921年7月底至8月初的最后一天会议。史料中有7月31日及8月1日至5日等六种说法；系统考证认为8月3日可信度较高，但中央党史和文献研究院明确指出仍不能绝对肯定，网页不单列某一日为定论。"
+        "sourceNote": "南湖会议只能稳妥标为1921年7月底至8月初的最后一天会议。中央党史和文献研究院梳理了7月31日、8月1日、8月2日、8月5日四种主要观点，并明确指出闭幕日期尚无定论；具体参会名单也存在不同研究口径。"
       }
     },
     {
@@ -1448,7 +1480,7 @@
       },
       "narrative": {
         "background": "本次成果源自计算机与大数据学院在上海开展的三站红色研学。项目希望把现场参观和心得记录转化为能够持续查询、校验和扩充的数字资源。",
-        "process": "项目组依据行程记录，按中共一大纪念馆、中国共产党代表团驻沪办事处旧址即周公馆、上海市龙华烈士陵园的顺序完成三站参观；南湖、博文女校等节点仅为必要历史关联地点，不属于本次实际路线。参观后，项目将沿线涉及的人物、地点、事件、时间、文物和精神谱系整理为结构化节点，以发生于、关联人物、体现精神、时间顺序和路线连接组织关系，并通过网页图谱展示。",
+        "process": "项目组依据行程记录，按中共一大纪念馆、中国共产党代表团驻沪办事处旧址即周公馆、上海市龙华烈士陵园的顺序完成三站参观；南湖、博文女校等节点仅为必要历史关联地点，不属于本次实际路线。参观后，项目将沿线涉及的人物、地点、事件、时间、文物和精神内涵整理为结构化节点，以发生于、关联人物、体现精神、时间顺序和路线连接组织关系，并通过网页图谱展示。",
         "significance": "成果把单篇心得转化为可搜索、可连接、可讲解并能继续维护的数据资源，体现计算机与大数据专业服务红色文化传播的特色。",
         "sourceNote": "本条唯一依据是项目组任务说明与行程记录，只能证明本次活动顺序与成果建设；所涉及的各场馆历史史实仍分别引用纪念馆、党史和政府权威来源。"
       }
@@ -1460,7 +1492,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中国共产党第一次全国代表大会在上海开幕的日期。",
-      "description": "权威党史和纪念馆资料均以1921年7月23日记载中共一大在上海开幕。",
+      "description": "1921年7月23日是中国共产党第一次全国代表大会在上海开幕的日期，已有中央档案与权威党史资料相互印证。中国共产党成立纪念日为7月1日，两者性质不同，不应混为同一日期。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1487,7 +1519,7 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大上海阶段第六次会议遭陌生人闯入并被法租界巡捕搜查的日期。",
-      "description": "权威党史考证认为，1921年7月30日晚，一大第六次会议刚开始即遭陌生人闯入，十几分钟后法租界巡捕进入会场搜查。",
+      "description": "权威党史考证认为，1921年7月30日晚，中共一大第六次会议刚开始即遭陌生人闯入，十几分钟后法租界巡捕进入会场搜查。该日期已有较强共识，但闯入者如何发现会场仍有不同解释。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1515,14 +1547,14 @@
       "aliases": [],
       "siteScope": "yida",
       "summary": "中共一大在嘉兴南湖续会并完成议程的跨月时间范围。",
-      "description": "南湖续会与闭幕日期存在7月31日至8月5日等多种说法，权威党史研究认为尚无定论，图谱因此保留为1921年7月底至8月初。",
+      "description": "南湖续会与中共一大闭幕日期有7月31日、8月1日、8月2日、8月5日四种主要观点，权威党史研究认为尚无定论。本节点因此采用“1921年7月底至8月初”的范围表达，避免把争议日期写成确定史实。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
         "startDate": "1921-07",
         "endDate": "1921-08",
         "precision": "range",
-        "certainty": "闭幕日期存在7月31日至8月5日六种说法，尚无定论"
+        "certainty": "闭幕日期有7月31日、8月1日、8月2日、8月5日四种主要观点，尚无定论"
       },
       "citations": [
         {
@@ -1543,7 +1575,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "中共代表团驻沪办事处设立并集中开展工作的年份。",
-      "description": "1946年，中共代表团在上海设立办事处，并开展记者招待、宣传和统一战线工作。",
+      "description": "1946年是中共代表团驻沪办事处设立并集中开展公开工作的年份。6月办事处以“周公馆”名义挂牌后，通过记者招待会、出版宣传、拜会和座谈等方式阐述和平民主主张并联系各界人士。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1570,7 +1602,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "从宁沪人员被限令撤返，到驻沪人员离沪并最终随宁沪人员返抵延安的时间范围。",
-      "description": "1947年2月28日，国民党方面限令宁沪中共人员于3月5日前撤返；驻沪33人于3月5日离沪抵宁，宁沪人员74人于3月7日撤返延安。",
+      "description": "该时间段记录中共驻宁沪人员被迫撤离的连续过程：1947年2月28日收到限令，驻沪33人于3月5日离沪抵宁，宁沪人员共74人于3月7日撤返延安。它不是单一事件日，而是一条可核对的时间链。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1597,7 +1629,7 @@
       "aliases": [],
       "siteScope": "longhua",
       "summary": "柔石、胡也频、殷夫、冯铿、李求实五位左联成员先后被捕的时间范围。",
-      "description": "上海党史资料记载，五位左联成员于1931年1月17日至18日先后被捕；同期更大范围的搜捕持续至1月24日。",
+      "description": "上海党史资料记载，后来被称为左联五烈士的柔石、胡也频、殷夫、冯铿、李求实于1931年1月17日至18日先后被捕，并非五人同日同地被捕。放在更大范围看，同期搜捕持续至1月24日。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1624,7 +1656,7 @@
       "aliases": [],
       "siteScope": "longhua",
       "summary": "左联五烈士与其他19位革命者在龙华被秘密杀害的日期。",
-      "description": "柔石、胡也频、殷夫、冯铿、李求实等24位革命者于1931年2月7日晚在龙华被秘密杀害。",
+      "description": "1931年2月7日晚，柔石、胡也频、殷夫、冯铿、李求实与另外19位革命者在龙华被秘密杀害，合称龙华二十四烈士。本节点用于把被捕、移解龙华与牺牲事件连接到明确日期。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1651,7 +1683,7 @@
       "aliases": [],
       "siteScope": "zhougongguan",
       "summary": "周公馆纪念馆正式向社会开放的日期。",
-      "description": "周公馆在完成修复、复原和内部开放后，于1986年9月1日起正式对外开放。",
+      "description": "周公馆旧址自1979年起修复，并依据邓颖超等亲历者回忆校正内部陈设，1982年先行内部开放，最终于1986年9月1日起正式对社会公众开放，历史工作空间由此转化为常态化纪念场馆。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1680,7 +1712,7 @@
       ],
       "siteScope": "yida",
       "summary": "传播马克思主义的重要中文译本相关馆藏。",
-      "description": "中共一大纪念馆相关展陈以陈望道翻译的《共产党宣言》呈现马克思主义在中国的早期传播。",
+      "description": "该藏品为1920年9月出版的陈望道翻译《共产党宣言》，现由中共一大纪念馆收藏并定为国家一级文物。展陈以这一中文译本说明马克思主义经典著作在中国的早期翻译与传播。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1691,9 +1723,9 @@
       },
       "citations": [
         {
-          "sourceId": "SRC-013",
+          "sourceId": "SRC-033",
           "locator": "馆藏精品",
-          "evidenceExcerpt": "馆藏资料包括1920年9月出版的陈望道译《共产党宣言》。"
+          "evidenceExcerpt": "1920年9月出版的陈望道译《共产党宣言》，级别为国家一级文物。"
         }
       ],
       "layout": {
@@ -1704,25 +1736,26 @@
     {
       "id": "ART-002",
       "type": "artifact",
-      "name": "中共一大会址会议室复原场景",
+      "name": "1946年周公馆记者招待会照片",
       "aliases": [
-        "一大会议室复原场景"
+        "周恩来记者招待会照片"
       ],
-      "siteScope": "yida",
-      "summary": "依据历史资料复原的一大上海会场展示空间。",
-      "description": "该展项用于帮助观众理解1921年会议空间，不作为历史原物展示，性质明确标注为复原场景。",
+      "siteScope": "zhougongguan",
+      "summary": "记录周恩来1946年9月1日在周公馆举行中外记者招待会的历史照片。",
+      "description": "这张照片由记者在1946年9月1日周恩来于周公馆举行中外记者招待会时拍摄。照片所记录的公开说明涉及国共谈判受阻、内战扩大以及反对美国援蒋等立场，现作为周公馆馆藏资料展示。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
-        "artifactSubtype": "exhibition_scene",
-        "authenticity": "reconstruction",
-        "currentHolder": "中共一大纪念馆"
+        "artifactSubtype": "historical_photograph",
+        "authenticity": "original",
+        "year": "1946",
+        "currentHolder": "周公馆"
       },
       "citations": [
         {
-          "sourceId": "SRC-013",
-          "locator": "会址复原陈列",
-          "evidenceExcerpt": "会址通过复原陈列呈现中共一大召开场景。"
+          "sourceId": "SRC-004",
+          "locator": "记者招待会照片藏品说明",
+          "evidenceExcerpt": "1946年9月1日，周恩来在周公馆分别召开中外记者招待会；这张照片当时由记者拍摄。"
         }
       ],
       "layout": {
@@ -1739,7 +1772,7 @@
       ],
       "siteScope": "zhougongguan",
       "summary": "周恩来题写“为真民主真和平而奋斗到底”的馆藏文物。",
-      "description": "该书保存周恩来1946年所题文字和签名，后捐献给纪念馆并经鉴定为国家一级文物。",
+      "description": "这本《政协文献》保存周恩来1946年11月题写的“为真民主真和平而奋斗到底”及签名，由《大锡报》副主编钱小柏长期保存，1986年捐献给纪念馆，后经专家鉴定为国家一级文物。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1770,7 +1803,7 @@
       ],
       "siteScope": "zhougongguan",
       "summary": "周恩来为李公朴、闻一多书写的悼词，现藏周公馆。",
-      "description": "1946年李公朴、闻一多遇害后，周恩来在上海写下悼词，表达对烈士的悼念和反对暴力的立场。",
+      "description": "1946年李公朴、闻一多先后遇害后，身在上海周公馆的周恩来写下七十多字悼词，后由邓颖超在追悼大会上诵读。手稿现收藏于周公馆，表达对两位爱国民主人士的悼念与反对暴力的立场。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1797,13 +1830,13 @@
       "name": "龙华烈士纪念碑",
       "aliases": [],
       "siteScope": "longhua",
-      "summary": "龙华烈士陵园内用于纪念革命烈士的重要纪念设施。",
-      "description": "纪念碑与墓、馆共同构成陵园的纪念设施体系，承担公共悼念、教育和空间标识功能。",
+      "summary": "龙华烈士陵园公开资料所列墓、碑、馆纪念设施中的碑类设施索引。",
+      "description": "上海市退役军人事务局公开资料将龙华烈士陵园主要设施概括为墓、碑、馆。本节点仅把其中的纪念碑作为现场设施索引，不对具体建造年代、材质、文物等级或未被来源直接支持的功能作出判断。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
         "artifactSubtype": "memorial_monument",
-        "authenticity": "original",
+        "authenticity": "not_applicable",
         "currentHolder": "上海市龙华烈士陵园"
       },
       "citations": [
@@ -1821,18 +1854,18 @@
     {
       "id": "ART-006",
       "type": "artifact",
-      "name": "龙华烈士纪念馆基本陈列",
+      "name": "龙华烈士纪念馆展陈",
       "aliases": [
         "龙华英烈主题展陈"
       ],
       "siteScope": "longhua",
-      "summary": "以史料和展示手段讲述龙华英烈事迹的基本陈列。",
-      "description": "基本陈列综合使用史料、复制件和场景化展示传播英烈事迹，本节点按展陈而非单件原物建模。",
+      "summary": "龙华烈士陵园公开资料所列纪念馆及其纪念教育功能的展陈索引。",
+      "description": "上海市退役军人事务局公开资料确认龙华烈士陵园设有纪念馆并承担纪念教育功能。本节点用于索引馆内展陈入口，不对展项构成、展示手段或单件展品真伪作来源未直接支持的判断。",
       "isCore": false,
       "recordKind": "historical_fact",
       "attributes": {
         "artifactSubtype": "museum_exhibition",
-        "authenticity": "reconstruction",
+        "authenticity": "not_applicable",
         "currentHolder": "上海市龙华烈士陵园"
       },
       "citations": [
@@ -1854,7 +1887,7 @@
       "aliases": [],
       "siteScope": "cross_site",
       "summary": "中国共产党的精神之源，由四组正式表述共同构成。",
-      "description": "伟大建党精神集中概括中国共产党创建实践所形成的理想信念、使命担当、斗争牺牲和忠诚为民品格。",
+      "description": "伟大建党精神是中国共产党的精神之源，正式表述为“坚持真理、坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争，对党忠诚、不负人民”。本节点连接正式表述与相关历史实践。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1880,7 +1913,7 @@
       "aliases": [],
       "siteScope": "cross_site",
       "summary": "伟大建党精神正式表述的第一组内容。",
-      "description": "该表述强调对马克思主义真理的坚持和对共产主义远大理想、中国特色社会主义共同理想的坚守。",
+      "description": "“坚持真理、坚守理想”是伟大建党精神正式表述的第一组内容，强调对马克思主义真理的坚持以及对共产主义远大理想和中国特色社会主义共同理想的坚守。本节点不把项目阐释替代为新的正式定义。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1906,7 +1939,7 @@
       "aliases": [],
       "siteScope": "cross_site",
       "summary": "伟大建党精神正式表述的第二组内容。",
-      "description": "该表述强调中国共产党人的初心使命，以及将理想转化为组织行动和历史担当。",
+      "description": "“践行初心、担当使命”是伟大建党精神正式表述的第二组内容，强调中国共产党人的初心使命及其行动担当。图谱以解释性关系连接建党、宣传和统一战线实践，不将这种关联写成来源原文。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1932,7 +1965,7 @@
       "aliases": [],
       "siteScope": "cross_site",
       "summary": "伟大建党精神正式表述的第三组内容。",
-      "description": "该表述体现中国共产党人在艰难险阻和生死考验面前坚持斗争、勇于牺牲的革命品格。",
+      "description": "“不怕牺牲、英勇斗争”是伟大建党精神正式表述的第三组内容，概括在艰难险阻和生死考验面前坚持斗争、勇于牺牲的革命品格。与龙华英烈事迹的连接属于有来源支撑的项目阐释。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1958,7 +1991,7 @@
       "aliases": [],
       "siteScope": "cross_site",
       "summary": "伟大建党精神正式表述的第四组内容。",
-      "description": "该表述强调中国共产党人的政治忠诚和人民立场，是理解宣传、统战与群众工作的精神维度。",
+      "description": "“对党忠诚、不负人民”是伟大建党精神正式表述的第四组内容，强调政治忠诚与人民立场。图谱将其作为理解周公馆宣传、社会联络和统一战线工作的精神内涵，相关连线明确标为解释性关系。",
       "isCore": true,
       "recordKind": "historical_fact",
       "attributes": {
@@ -1985,8 +2018,8 @@
         "龙华英烈精神"
       ],
       "siteScope": "longhua",
-      "summary": "项目依据场馆英烈叙事归纳的革命品格主题，不作为正式精神谱系命名。",
-      "description": "该节点用于连接龙华英烈的理想信念、英勇斗争与牺牲奉献，界面明确标注为场馆阐释与项目归纳。",
+      "summary": "项目依据场馆英烈叙事归纳的革命品格主题，不作为正式精神名称。",
+      "description": "“龙华英烈革命品格”是项目依据场馆纪念叙事归纳的解释性主题，用于连接英烈的理想信念、狱中斗争与牺牲奉献。它不是中央发布的正式精神名称，界面以“场馆阐释与项目归纳”明确标注其来源边界。",
       "isCore": false,
       "recordKind": "interpretation",
       "attributes": {
@@ -2001,9 +2034,9 @@
           "evidenceExcerpt": "陵园通过墓、碑、馆等设施开展烈士纪念教育。"
         },
         {
-          "sourceId": "SRC-011",
-          "locator": "左联五烈士史料",
-          "evidenceExcerpt": "龙华英烈事迹体现坚定信念和英勇斗争。"
+          "sourceId": "SRC-026",
+          "locator": "龙华狱中斗争",
+          "evidenceExcerpt": "在狱中，面对多次提审与威逼利诱，他们表现出大无畏的英雄气概和革命乐观主义精神。"
         }
       ],
       "layout": {
@@ -2176,7 +2209,7 @@
         {
           "sourceId": "SRC-016",
           "locator": "各日期观点与结语",
-          "evidenceExcerpt": "嘉兴南湖闭会日期存在7月31日及8月1日至5日等多种说法，尚无定论。"
+          "evidenceExcerpt": "闭会日期有7月31日、8月1日、8月2日、8月5日四种主要观点，尚无定论。"
         }
       ]
     },
@@ -2789,86 +2822,86 @@
     },
     {
       "id": "REL-044",
-      "source": "EVT-003",
-      "target": "PER-001",
+      "source": "EVT-002",
+      "target": "PER-004",
       "type": "associated_person",
       "label": "关联人物",
-      "claim": "毛泽东参与中共一大南湖续会阶段。",
+      "claim": "上海会场遭搜查时，会址主人李汉俊留在现场应对巡捕盘查。",
       "isCore": true,
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-002",
-          "locator": "代表与南湖续会",
-          "evidenceExcerpt": "一大代表转移至南湖继续会议。"
+          "sourceId": "SRC-017",
+          "locator": "会场疏散与巡捕搜查经过",
+          "evidenceExcerpt": "多数与会者迅速撤离，李汉俊、陈公博留下应对随后到场的法租界巡捕。"
         }
       ]
     },
     {
       "id": "REL-045",
-      "source": "EVT-003",
-      "target": "PER-002",
+      "source": "EVT-002",
+      "target": "PER-011",
       "type": "associated_person",
       "label": "关联人物",
-      "claim": "董必武参与中共一大南湖续会阶段。",
-      "isCore": true,
+      "claim": "上海会场遭搜查时，陈公博与李汉俊留在现场应对巡捕盘查。",
+      "isCore": false,
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-002",
-          "locator": "代表与南湖续会",
-          "evidenceExcerpt": "一大代表转移至南湖继续会议。"
+          "sourceId": "SRC-017",
+          "locator": "会场疏散与巡捕搜查经过",
+          "evidenceExcerpt": "多数与会者迅速撤离，李汉俊、陈公博留下应对随后到场的法租界巡捕。"
         }
       ]
     },
     {
       "id": "REL-046",
-      "source": "EVT-003",
+      "source": "EVT-004",
       "target": "PER-003",
       "type": "associated_person",
       "label": "关联人物",
-      "claim": "李达参与中共一大南湖续会阶段。",
+      "claim": "大会选举李达为中央局成员，负责宣传工作。",
       "isCore": false,
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-002",
-          "locator": "代表与南湖续会",
-          "evidenceExcerpt": "一大代表转移至南湖继续会议。"
+          "sourceId": "SRC-019",
+          "locator": "中央局选举",
+          "evidenceExcerpt": "大会选举陈独秀、张国焘、李达组成中央局，李达负责宣传。"
         }
       ]
     },
     {
       "id": "REL-047",
-      "source": "EVT-003",
-      "target": "PER-007",
+      "source": "EVT-004",
+      "target": "PER-005",
       "type": "associated_person",
       "label": "关联人物",
-      "claim": "何叔衡参与中共一大南湖续会阶段。",
+      "claim": "大会选举张国焘为中央局成员，负责组织工作。",
       "isCore": false,
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-002",
-          "locator": "代表与南湖续会",
-          "evidenceExcerpt": "一大代表转移至南湖继续会议。"
+          "sourceId": "SRC-019",
+          "locator": "中央局选举",
+          "evidenceExcerpt": "大会选举陈独秀、张国焘、李达组成中央局，张国焘负责组织。"
         }
       ]
     },
     {
       "id": "REL-048",
-      "source": "EVT-003",
-      "target": "PER-009",
+      "source": "EVT-009",
+      "target": "PER-017",
       "type": "associated_person",
       "label": "关联人物",
-      "claim": "王尽美参与中共一大南湖续会阶段。",
+      "claim": "邓颖超1981年到周公馆旧址踏勘并提供回忆，帮助校正复原陈设。",
       "isCore": false,
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-002",
-          "locator": "代表与南湖续会",
-          "evidenceExcerpt": "一大代表转移至南湖继续会议。"
+          "sourceId": "SRC-003",
+          "locator": "旧址修复沿革",
+          "evidenceExcerpt": "1981年6月5日邓颖超等到旧址参观踏勘，并依据回忆调整复原陈设。"
         }
       ]
     },
@@ -2900,9 +2933,9 @@
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "周公馆人员与沿革",
-          "evidenceExcerpt": "邓颖超与周公馆历史密切相关。"
+          "sourceId": "SRC-004",
+          "locator": "邓颖超名片藏品说明",
+          "evidenceExcerpt": "1946年7月18日，邓颖超前往探望养伤中的雷洁琼并留下名片。"
         }
       ]
     },
@@ -2934,9 +2967,9 @@
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "重点文物相关说明",
-          "evidenceExcerpt": "李维汉等代表团成员先后来沪开展工作。"
+          "sourceId": "SRC-004",
+          "locator": "周恩来与郭沫若、李维汉合影说明",
+          "evidenceExcerpt": "李维汉等中共代表团成员先后来沪开展工作。"
         }
       ]
     },
@@ -2951,9 +2984,9 @@
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "重点文物相关说明",
-          "evidenceExcerpt": "陆定一等代表团成员先后来沪开展工作。"
+          "sourceId": "SRC-004",
+          "locator": "周恩来与郭沫若、李维汉合影说明",
+          "evidenceExcerpt": "陆定一等中共代表团成员先后来沪开展工作。"
         }
       ]
     },
@@ -3019,9 +3052,9 @@
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "代表团成员说明",
-          "evidenceExcerpt": "董必武等先后来沪开展工作。"
+          "sourceId": "SRC-004",
+          "locator": "代表团成员与统一战线工作说明",
+          "evidenceExcerpt": "董必武等代表团成员先后来沪开展工作，阐述和平民主主张并联系各界人士。"
         }
       ]
     },
@@ -3036,9 +3069,9 @@
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "代表团成员说明",
-          "evidenceExcerpt": "李维汉等先后来沪开展工作。"
+          "sourceId": "SRC-004",
+          "locator": "代表团成员与统一战线工作说明",
+          "evidenceExcerpt": "李维汉等代表团成员先后来沪开展工作，阐述和平民主主张并联系各界人士。"
         }
       ]
     },
@@ -3053,9 +3086,9 @@
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-003",
-          "locator": "代表团成员说明",
-          "evidenceExcerpt": "陆定一等先后来沪开展工作。"
+          "sourceId": "SRC-004",
+          "locator": "代表团成员与统一战线工作说明",
+          "evidenceExcerpt": "陆定一等代表团成员先后来沪开展工作，阐述和平民主主张并联系各界人士。"
         }
       ]
     },
@@ -3079,17 +3112,17 @@
     {
       "id": "REL-061",
       "source": "EVT-008",
-      "target": "PER-017",
+      "target": "PER-002",
       "type": "associated_person",
       "label": "关联人物",
-      "claim": "邓颖超作为中共代表团成员与撤离阶段相关。",
+      "claim": "董必武率领留守周公馆的最后一批成员于1947年3月5日撤离上海。",
       "isCore": false,
       "recordKind": "historical_fact",
       "citations": [
         {
-          "sourceId": "SRC-012",
-          "locator": "代表团撤离史料",
-          "evidenceExcerpt": "中共驻沪工作人员被迫撤离。"
+          "sourceId": "SRC-024",
+          "locator": "非赶不走，董必武最后撤离",
+          "evidenceExcerpt": "3月5日，董必武率驻沪办事处33名工作人员撤离上海，当日抵达南京。"
         }
       ]
     },
@@ -3503,14 +3536,14 @@
       "target": "SPI-004",
       "type": "embodies_spirit",
       "label": "体现精神",
-      "claim": "柔石的牺牲事迹体现英勇斗争和牺牲精神。",
+      "claim": "柔石的狱中斗争与牺牲事迹体现英勇斗争和牺牲精神。",
       "isCore": false,
       "recordKind": "interpretation",
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "柔石人物条目",
-          "evidenceExcerpt": "柔石在龙华牺牲。"
+          "sourceId": "SRC-026",
+          "locator": "龙华狱中斗争与秘密杀害经过",
+          "evidenceExcerpt": "柔石等人在狱中收集材料、坚持斗争，后于1931年2月7日晚与其他革命者一同被秘密杀害。"
         },
         {
           "sourceId": "SRC-007",
@@ -3525,14 +3558,14 @@
       "target": "SPI-004",
       "type": "embodies_spirit",
       "label": "体现精神",
-      "claim": "胡也频的牺牲事迹体现英勇斗争和牺牲精神。",
+      "claim": "胡也频的狱中斗争与牺牲事迹体现英勇斗争和牺牲精神。",
       "isCore": false,
       "recordKind": "interpretation",
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "胡也频人物条目",
-          "evidenceExcerpt": "胡也频在龙华牺牲。"
+          "sourceId": "SRC-026",
+          "locator": "龙华狱中斗争与秘密杀害经过",
+          "evidenceExcerpt": "胡也频在狱中面对死亡毫不动摇，后于1931年2月7日晚与其他革命者一同被秘密杀害。"
         },
         {
           "sourceId": "SRC-007",
@@ -3547,14 +3580,14 @@
       "target": "SPI-004",
       "type": "embodies_spirit",
       "label": "体现精神",
-      "claim": "殷夫的牺牲事迹体现英勇斗争和牺牲精神。",
+      "claim": "殷夫的狱中斗争与牺牲事迹体现英勇斗争和牺牲精神。",
       "isCore": false,
       "recordKind": "interpretation",
       "citations": [
         {
-          "sourceId": "SRC-006",
-          "locator": "殷夫人物条目",
-          "evidenceExcerpt": "殷夫在龙华牺牲。"
+          "sourceId": "SRC-026",
+          "locator": "龙华狱中斗争与秘密杀害经过",
+          "evidenceExcerpt": "殷夫等人在狱中学习、写作并坚持斗争，后于1931年2月7日晚与其他革命者一同被秘密杀害。"
         },
         {
           "sourceId": "SRC-007",
@@ -3787,23 +3820,23 @@
   "sources": [
     {
       "id": "SRC-001",
-      "title": "中共一大纪念馆官方网站·本馆概述与基本陈列",
+      "title": "中共一大纪念馆本馆概述与开放信息",
       "publisher": "中国共产党第一次全国代表大会纪念馆",
       "sourceType": "official_museum",
       "authorityTier": "A",
-      "canonicalUrl": "https://www.zgyd1921.com/",
-      "accessedAt": "2026-07-11",
+      "canonicalUrl": "https://www.zgyd1921.com/about.html#opening",
+      "accessedAt": "2026-07-18",
       "rights": "官网文字版权归发布机构所有，本项目仅作事实级改写与短引",
-      "notes": "用于纪念馆、会址、一大召开及展陈信息。"
+      "notes": "用于纪念馆组成、开放信息、会址沿革及中共一大开幕信息。"
     },
     {
       "id": "SRC-002",
-      "title": "中国共产党第一次全国代表大会",
+      "title": "一大的召开",
       "publisher": "中共中央党史和文献研究院",
       "sourceType": "party_history",
       "authorityTier": "A",
-      "canonicalUrl": "https://www.dswxyjy.org.cn/",
-      "accessedAt": "2026-07-11",
+      "canonicalUrl": "https://www.dswxyjy.org.cn/n/2013/0216/c244520-20495164.html",
+      "accessedAt": "2026-07-18",
       "rights": "权威党史资料，按来源规范引用",
       "notes": "用于一大代表、会议进程和中国共产党成立等核心史实。"
     },
@@ -3814,7 +3847,7 @@
       "sourceType": "official_museum",
       "authorityTier": "A",
       "canonicalUrl": "https://www.zgyd1921.com/zhou/introduction.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "官网文字版权归发布机构所有，本项目仅作事实级改写与短引",
       "notes": "用于周公馆名称、地址、沿革及开放信息。"
     },
@@ -3825,9 +3858,9 @@
       "sourceType": "official_museum",
       "authorityTier": "S",
       "canonicalUrl": "https://www.zgyd1921.com/zhou/collection.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "藏品图片与文字版权归发布机构所有，本项目不转载图片，仅作短引",
-      "notes": "用于《政协文献》、周恩来手书悼词等藏品事实。"
+      "notes": "用于《政协文献》、周恩来手书悼词、记者招待会照片等周公馆藏品事实。"
     },
     {
       "id": "SRC-005",
@@ -3836,20 +3869,9 @@
       "sourceType": "government",
       "authorityTier": "A",
       "canonicalUrl": "https://tyjr.sh.gov.cn/shtyjrswj/xhqjn/20191218/0036-dd5ce906-555d-42fc-9ee6-03a29808f591.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "政府网站信息按来源规范引用",
       "notes": "用于陵园地址、管理保护单位及纪念设施。"
-    },
-    {
-      "id": "SRC-006",
-      "title": "中华英烈网·英烈人物资料",
-      "publisher": "中华人民共和国退役军人事务部",
-      "sourceType": "government",
-      "authorityTier": "A",
-      "canonicalUrl": "https://www.chinamartyrs.gov.cn/",
-      "accessedAt": "2026-07-11",
-      "rights": "政府公共纪念资料按来源规范引用",
-      "notes": "用于龙华英烈人物身份与生平的交叉核验。"
     },
     {
       "id": "SRC-007",
@@ -3859,7 +3881,7 @@
       "authorityTier": "A",
       "publicationDate": "2021-07-01",
       "canonicalUrl": "https://www.gov.cn/xinwen/2021-07/01/content_5621847.htm",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "政府公开讲话按来源规范引用",
       "notes": "用于伟大建党精神及其四组正式表述。"
     },
@@ -3871,64 +3893,20 @@
       "authorityTier": "S",
       "publicationDate": "2019-10-16",
       "canonicalUrl": "https://www.gov.cn/zhengce/content/2019-10/16/content_5440577.htm",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "国务院公开文件按来源规范引用",
       "notes": "用于周公馆全国重点文物保护单位身份。"
-    },
-    {
-      "id": "SRC-009",
-      "title": "上海通志与上海革命史资料",
-      "publisher": "上海市地方志办公室",
-      "sourceType": "archive",
-      "authorityTier": "A",
-      "canonicalUrl": "https://www.shtong.gov.cn/",
-      "accessedAt": "2026-07-11",
-      "rights": "地方志资料按来源规范引用",
-      "notes": "用于上海历史地名、龙华革命史和纪念设施沿革核验。"
     },
     {
       "id": "SRC-010",
       "title": "上海红色研学活动任务说明与行程记录",
       "publisher": "计算机与大数据学院研学项目组",
       "sourceType": "activity_record",
-      "authorityTier": "S",
-      "identifier": "RC-STUDY-ROUTE-2026",
-      "accessedAt": "2026-07-11",
+      "authorityTier": "C",
+      "identifier": "RC-STUDY-ROUTE-2026-v1",
+      "accessedAt": "2026-07-18",
       "rights": "项目组内部成果资料",
-      "notes": "仅用于证明本次研学的三个参观点、参观顺序和成果建设要求，不用于替代历史史料。"
-    },
-    {
-      "id": "SRC-011",
-      "title": "左联五烈士史料",
-      "publisher": "上海市龙华烈士陵园（龙华烈士纪念馆）",
-      "sourceType": "official_museum",
-      "authorityTier": "A",
-      "canonicalUrl": "https://www.shlhlsly.com/",
-      "accessedAt": "2026-07-11",
-      "rights": "场馆史料按来源规范引用，不转载版权不明图片",
-      "notes": "用于左联五烈士被捕、牺牲及龙华纪念叙事；具体人物以中华英烈网交叉核验。"
-    },
-    {
-      "id": "SRC-012",
-      "title": "中国共产党代表团驻沪办事处史料",
-      "publisher": "中共上海市委党史研究室",
-      "sourceType": "party_history",
-      "authorityTier": "A",
-      "canonicalUrl": "https://www.ccphistory.org.cn/",
-      "accessedAt": "2026-07-11",
-      "rights": "党史资料按来源规范引用",
-      "notes": "用于周公馆开展宣传、统战工作及人员活动的补充核验。"
-    },
-    {
-      "id": "SRC-013",
-      "title": "中共一大纪念馆馆藏精品与展陈资料",
-      "publisher": "中国共产党第一次全国代表大会纪念馆",
-      "sourceType": "official_museum",
-      "authorityTier": "S",
-      "canonicalUrl": "https://www.zgyd1921.com/",
-      "accessedAt": "2026-07-11",
-      "rights": "馆藏和展陈版权归发布机构所有，本项目不转载图片",
-      "notes": "用于一大相关馆藏、复制品与复原场景的性质说明。"
+      "notes": "primary_for_itinerary；仅用于证明本次研学的三个参观点、参观顺序和成果建设要求，不用于替代历史史料。"
     },
     {
       "id": "SRC-014",
@@ -3938,7 +3916,7 @@
       "authorityTier": "S",
       "author": "杨冬权",
       "canonicalUrl": "https://www.dswxyjy.org.cn/n1/2019/0621/c423733-31173660.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "权威档案研究按来源规范引用",
       "notes": "用于一大开幕、会议受干扰、纲领与闭幕日期史料状况。"
     },
@@ -3949,7 +3927,7 @@
       "sourceType": "party_history",
       "authorityTier": "A",
       "canonicalUrl": "https://www.dswxyjy.org.cn/n1/2022/1107/c448623-32560853.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "权威党史资料按来源规范引用",
       "notes": "用于一大时间地点、会议成果和历史意义。"
     },
@@ -3960,7 +3938,7 @@
       "sourceType": "party_history",
       "authorityTier": "A",
       "canonicalUrl": "https://www.dswxyjy.org.cn/n/2012/0926/c244514-19117464.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "权威党史研究按来源规范引用",
       "notes": "用于呈现南湖续会与闭幕日期的多种说法及无定论状态。"
     },
@@ -3971,7 +3949,7 @@
       "sourceType": "party_history",
       "authorityTier": "A",
       "canonicalUrl": "https://www.dswxyjy.org.cn/n/2014/0120/c222139-24172078.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "权威党史研究按来源规范引用",
       "notes": "用于1921年7月30日陌生人闯入、疏散和法租界巡捕搜查经过。"
     },
@@ -3983,7 +3961,7 @@
       "authorityTier": "A",
       "author": "新华社",
       "canonicalUrl": "https://www.12371.cn/2021/06/15/ARTI1623749019266739.shtml",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "新华社党史报道按来源规范引用",
       "notes": "用于从上海转移南湖、王会悟放哨及最后一天会议情境。"
     },
@@ -3994,7 +3972,7 @@
       "sourceType": "party_history",
       "authorityTier": "B",
       "canonicalUrl": "https://news.12371.cn/2015/04/07/ARTI1428389938919463.shtml",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "权威媒体党史资料按来源规范引用",
       "notes": "用于南湖会议纲领、工作决议和中央局选举；其具体日期仅作为争议口径之一。"
     },
@@ -4006,7 +3984,7 @@
       "authorityTier": "A",
       "author": "欧阳淞",
       "canonicalUrl": "https://www.12371.cn/2021/12/01/ARTI1638320898042680.shtml",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "《求是》权威党史文章按来源规范引用",
       "notes": "用于早期组织、会议成果与中国共产党成立的历史意义。"
     },
@@ -4017,88 +3995,96 @@
       "sourceType": "official_museum",
       "authorityTier": "A",
       "canonicalUrl": "https://www.zgyd1921.com/zhou/exhibition.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "官网文字版权归发布机构所有，本项目仅作事实级改写与短引",
       "notes": "用于驻沪办事处设立、宣传统战工作与撤离上海等展陈史实。"
     },
     {
       "id": "SRC-022",
       "title": "“周公馆”诞生记",
-      "publisher": "上海党史网",
-      "sourceType": "party_history",
+      "publisher": "中国共产党第一次全国代表大会纪念馆",
+      "hostPublisher": "上海党史网",
+      "sourceType": "official_museum",
       "authorityTier": "A",
       "author": "魏岚",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/bdxx/content/c8e96cfc-b79c-4af8-ad92-e3ae588df26b.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "党史公开资料按来源规范引用",
-      "notes": "来源注明中共一大纪念馆，用于周公馆筹设、命名与挂牌过程。"
+      "notes": "上海党史网转载，用于周公馆筹设、命名与挂牌过程。"
     },
     {
       "id": "SRC-023",
       "title": "1946年，周恩来在上海的峥嵘岁月",
-      "publisher": "上海党史网",
-      "sourceType": "party_history",
+      "publisher": "东方网",
+      "hostPublisher": "上海党史网",
+      "sourceType": "publication",
       "authorityTier": "A",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/bdxx/content/c25a0f78-ddb0-4cef-a4a8-dd7d6143c734.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "党史公开资料按来源规范引用",
-      "notes": "用于周恩来联系民主人士、团结文艺界等在沪活动。"
+      "notes": "上海党史网转载，用于周恩来联系民主人士、团结文艺界等在沪活动。"
     },
     {
       "id": "SRC-024",
       "title": "中共代表团撤离南京梅园新村始末",
-      "publisher": "上海党史网",
-      "sourceType": "party_history",
+      "publisher": "《百年潮》",
+      "hostPublisher": "上海党史网",
+      "sourceType": "publication",
       "authorityTier": "A",
       "author": "徐海涛",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/dsxx/content/dbe7c69c-b758-4b12-b897-8e8bc32a7c6d.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "党史公开资料按来源规范引用",
-      "notes": "原载《百年潮》，用于核验1947年限令、撤沪和返延安时间链。"
+      "notes": "上海党史网转载，用于核验1947年限令、撤沪和返延安时间链。"
     },
     {
       "id": "SRC-025",
       "title": "北四川路的左联文艺往事",
-      "publisher": "中共上海市委党史研究室",
-      "sourceType": "party_history",
+      "publisher": "文汇报",
+      "hostPublisher": "上海党史网",
+      "sourceType": "publication",
       "authorityTier": "A",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/bdxx/content/e1e32b04-f8c3-46c2-8e12-9677d139372e.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "党史公开资料按来源规范引用",
-      "notes": "用于左联受压制、五位成员被捕时段及事件影响。"
+      "notes": "上海党史网转载，用于左联受压制、五位成员被捕时段及事件影响。"
     },
     {
       "id": "SRC-026",
-      "title": "纪念龙华二十四烈士牺牲90周年：慷慨高歌赴刑场的龙华二十四烈士",
-      "publisher": "中共上海市委党史研究室",
-      "sourceType": "party_history",
+      "title": "纪念“龙华二十四烈士”牺牲90周年，上海龙华烈士纪念馆线上征集红色诗歌",
+      "publisher": "上观新闻",
+      "hostPublisher": "上海党史网",
+      "sourceType": "publication",
       "authorityTier": "A",
+      "author": "曹飞",
+      "publicationDate": "2021-02-09",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/bdxx/content/292dca2e-eaf3-4111-bb53-916104e8a40c.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "党史公开资料按来源规范引用",
-      "notes": "用于1931年搜捕范围、龙华狱中斗争、秘密杀害与1950年遗骸发掘。"
+      "notes": "上海党史网转载，用于1931年搜捕范围、龙华监狱中的斗争和2月7日秘密杀害经过。"
     },
     {
       "id": "SRC-027",
       "title": "在上海被秘密杀害的革命文化尖兵李求实",
-      "publisher": "中共上海市委党史研究室",
-      "sourceType": "party_history",
+      "publisher": "《党史镜报》",
+      "hostPublisher": "上海党史网",
+      "sourceType": "publication",
       "authorityTier": "A",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/dsxx/content/996fea85-bba5-40c3-b937-41674418fd42.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "党史公开资料按来源规范引用",
-      "notes": "用于核验李求实规范姓名、李伟森笔名及被捕史实。"
+      "notes": "上海党史网转载，用于核验李求实规范姓名、李伟森笔名及被捕史实。"
     },
     {
       "id": "SRC-028",
-      "title": "2月7日：1931年的今天，龙华二十四烈士遇难",
+      "title": "2月7日",
       "publisher": "上海市地方志办公室",
       "sourceType": "archive",
       "authorityTier": "A",
       "canonicalUrl": "https://www.shtong.gov.cn/node79048/20210701/98566.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "地方志公开资料按来源规范引用",
-      "notes": "用于被捕、移解龙华和2月7日秘密杀害的时间链。"
+      "notes": "页面正文记述1931年龙华二十四烈士遇难，用于被捕、移解龙华和2月7日秘密杀害的时间链。"
     },
     {
       "id": "SRC-029",
@@ -4107,20 +4093,47 @@
       "sourceType": "archive",
       "authorityTier": "A",
       "canonicalUrl": "https://www.shtong.gov.cn/n189144/20210701/269447.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "地方志公开资料按来源规范引用",
       "notes": "用于陵园1995年建成开放、园区组成与爱国主义教育基地等沿革。"
     },
     {
       "id": "SRC-030",
       "title": "以龙华英烈精神续写光荣之城荣光",
-      "publisher": "中共上海市委党史研究室",
-      "sourceType": "party_history",
+      "publisher": "文汇报",
+      "hostPublisher": "上海党史网",
+      "sourceType": "publication",
       "authorityTier": "A",
       "canonicalUrl": "https://www.ccphistory.org.cn/shds/zhbd/content/84c08d21-3fd7-462e-946b-2d07818cc3f2.html",
-      "accessedAt": "2026-07-11",
+      "accessedAt": "2026-07-18",
       "rights": "权威党史公开资料按来源规范引用",
-      "notes": "用于龙华烈士陵园大思政课、龙华魂课程和2023年公共教育服务数据。"
+      "notes": "上海党史网转载，用于龙华烈士陵园大思政课、龙华魂课程和2023年公共教育服务数据。"
+    },
+    {
+      "id": "SRC-031",
+      "title": "回望105年前“群英汇博文” 经精心修缮 中共一大代表宿舍旧址今日开馆",
+      "publisher": "解放日报",
+      "hostPublisher": "上海市人民政府",
+      "sourceType": "publication",
+      "authorityTier": "A",
+      "author": "吴頔",
+      "photoCredit": "孟雨涵",
+      "publicationDate": "2026-03-24",
+      "canonicalUrl": "https://www.shanghai.gov.cn/nw4411/20260324/57a44e63e872447ca87c8448e15ce900.html",
+      "accessedAt": "2026-07-18",
+      "rights": "上海市政府网站转载《解放日报》报道，按来源规范短引",
+      "notes": "用于博文女校迁址、代表住宿活动、太仓路127号及2026年3月24日开放信息。"
+    },
+    {
+      "id": "SRC-033",
+      "title": "中共一大纪念馆馆藏精品",
+      "publisher": "中国共产党第一次全国代表大会纪念馆",
+      "sourceType": "official_museum",
+      "authorityTier": "S",
+      "canonicalUrl": "https://www.zgyd1921.com/collection/highlights.html",
+      "accessedAt": "2026-07-18",
+      "rights": "藏品图片与文字版权归发布机构所有，本项目不转载图片，仅作短引",
+      "notes": "用于1920年9月出版的陈望道译《共产党宣言》馆藏与文物等级信息。"
     }
   ]
 }

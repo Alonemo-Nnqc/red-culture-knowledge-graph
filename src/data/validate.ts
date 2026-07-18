@@ -23,6 +23,14 @@ function hasCycle(relations: GraphRelation[], type: GraphRelation['type']): bool
   return [...adjacency.keys()].some(visit)
 }
 
+function hasAuthoritativeCitation(graph: GraphData, recordKind: GraphNode['recordKind'], sourceIds: string[]): boolean {
+  return sourceIds.some((sourceId) => {
+    const source = graph.sources.find((item) => item.id === sourceId)
+    if (!source) return false
+    return ['S', 'A'].includes(source.authorityTier) || (recordKind === 'itinerary' && source.sourceType === 'activity_record')
+  })
+}
+
 export function validateGraph(input: unknown): string[] {
   const parsed = graphSchema.safeParse(input)
   if (!parsed.success) return parsed.error.issues.map((issue) => `${issue.path.join('.')}: ${issue.message}`)
@@ -44,7 +52,7 @@ export function validateGraph(input: unknown): string[] {
     nodeIds.add(node.id)
     if (!node.id.startsWith(prefixes[node.type])) errors.push(`节点前缀错误：${node.id}`)
     for (const citation of node.citations) if (!sourceIds.has(citation.sourceId)) errors.push(`节点 ${node.id} 引用了不存在的来源 ${citation.sourceId}`)
-    if (node.isCore && !node.citations.some((citation) => ['S', 'A'].includes(graph.sources.find((source) => source.id === citation.sourceId)?.authorityTier ?? ''))) {
+    if (node.isCore && !hasAuthoritativeCitation(graph, node.recordKind, node.citations.map((citation) => citation.sourceId))) {
       errors.push(`核心节点 ${node.id} 缺少 S/A 级来源`)
     }
   }
@@ -59,10 +67,16 @@ export function validateGraph(input: unknown): string[] {
     if (uniqueEdges.has(edgeKey)) errors.push(`重复关系：${edgeKey}`)
     uniqueEdges.add(edgeKey)
     for (const citation of relation.citations) if (!sourceIds.has(citation.sourceId)) errors.push(`关系 ${relation.id} 引用了不存在的来源 ${citation.sourceId}`)
-    if (relation.isCore && !relation.citations.some((citation) => ['S', 'A'].includes(graph.sources.find((source) => source.id === citation.sourceId)?.authorityTier ?? ''))) {
+    if (relation.isCore && !hasAuthoritativeCitation(graph, relation.recordKind, relation.citations.map((citation) => citation.sourceId))) {
       errors.push(`核心关系 ${relation.id} 缺少 S/A 级来源`)
     }
   }
+
+  const citedSourceIds = new Set([
+    ...graph.nodes.flatMap((node) => node.citations.map((citation) => citation.sourceId)),
+    ...graph.relations.flatMap((relation) => relation.citations.map((citation) => citation.sourceId)),
+  ])
+  for (const source of graph.sources) if (!citedSourceIds.has(source.id)) errors.push(`来源 ${source.id} 未被任何节点或关系引用`)
 
   for (const type of nodeTypes) if (!graph.nodes.some((node) => node.type === type)) errors.push(`缺少 ${type} 节点`)
   for (const type of relationTypes) if (!graph.relations.some((relation) => relation.type === type)) errors.push(`缺少 ${type} 关系`)

@@ -70,7 +70,7 @@ export default function App() {
           <div className="topbar">
             <div className="project-brand">
               <span className="brand-symbol" aria-hidden="true"><Landmark size={18} /></span>
-              <span><strong>红色文化数字研学</strong><small>计算机与大数据学院</small></span>
+              <span><strong>“初心启智，数创未来”实践队</strong><small>计算机与大数据学院</small></span>
             </div>
             <div className="data-quality"><ShieldCheck size={16} aria-hidden="true" />权威史料 · 事实级溯源</div>
           </div>
@@ -94,7 +94,7 @@ export default function App() {
         {view === 'route' && <RouteView onOpenGraph={openGraph} />}
         {view === 'data' && <DataView />}
       </main>
-      <footer><div><strong>上海红色文化知识图谱</strong><span>计算机与大数据专业服务红色文化传播</span></div><p>史实数据截至 2026-07-11 · 核心内容均标注来源</p></footer>
+      <footer><div><strong>上海红色文化知识图谱</strong><span>计算机与大数据专业服务红色文化传播</span></div><p>史实数据核验至 2026-07-18 · 核心内容均标注来源</p></footer>
     </div>
   )
 }

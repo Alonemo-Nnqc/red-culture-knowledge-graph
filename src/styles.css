@@ -99,13 +99,19 @@ main { width: min(1400px, calc(100% - 48px)); min-height: 620px; margin: auto; p
 .legend > span { display: inline-flex; align-items: center; gap: 6px; }
 .legend-title { color: #1d1d1f; font-weight: 700; }
 .legend-divider { width: 1px; height: 17px; background: var(--line); }
-.node-marker { display: inline-block; width: 11px; height: 11px; flex: 0 0 auto; background: #999; border-radius: 50%; }
-.node-marker.type-person, .type-pill.type-person { background: #aa313b; }
-.node-marker.type-place, .type-pill.type-place { background: #9b6a1a; border-radius: 3px; }
-.node-marker.type-event, .type-pill.type-event { background: #b5522f; transform: rotate(45deg); border-radius: 1px; }
-.node-marker.type-time, .type-pill.type-time { background: #426b76; border-radius: 2px; }
-.node-marker.type-artifact, .type-pill.type-artifact { background: #776047; border-radius: 1px; }
-.node-marker.type-spirit, .type-pill.type-spirit { background: #7d4b83; }
+.node-marker { display: inline-block; width: 12px; height: 12px; flex: 0 0 auto; background: var(--node-color, #999); }
+.node-marker[data-node-shape="ellipse"] { border-radius: 50%; }
+.node-marker[data-node-shape="round-rectangle"] { border-radius: 3px; }
+.node-marker[data-node-shape="diamond"] { width: 10px; height: 10px; margin: 1px; border-radius: 1px; transform: rotate(45deg); }
+.node-marker[data-node-shape="hexagon"] { clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%); }
+.node-marker[data-node-shape="rectangle"] { border-radius: 1px; }
+.node-marker[data-node-shape="star"] { clip-path: polygon(50% 0, 61% 35%, 98% 35%, 68% 57%, 79% 94%, 50% 72%, 21% 94%, 32% 57%, 2% 35%, 39% 35%); }
+.type-pill.type-person { background: #aa313b; }
+.type-pill.type-place { background: #9b6a1a; }
+.type-pill.type-event { background: #b5522f; }
+.type-pill.type-time { background: #426b76; }
+.type-pill.type-artifact { background: #776047; }
+.type-pill.type-spirit { background: #7d4b83; }
 .type-pill.type-event { transform: none; }
 .edge-marker { display: inline-block; width: 22px; height: 2px; background: #9c7652; }
 .edge-marker.relation-associated_person { background: #b6534f; }

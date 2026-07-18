@@ -1,16 +1,9 @@
 import cytoscape, { type Core } from 'cytoscape'
 import { Minus, Plus, Scan } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
+import { nodeTypePresentation } from '../data/presentation'
 import type { GraphNode, GraphRelation, NodeType, RelationType } from '../data/types'
 import { classifyWheelGesture, nextTrackpadZoom, normalizeWheelDelta } from '../lib/graphGestures'
-
-const nodeColors: Record<NodeType, string> = {
-  person: '#aa313b', place: '#9b6a1a', event: '#b5522f', time: '#426b76', artifact: '#776047', spirit: '#7d4b83',
-}
-
-const nodeShapes: Record<NodeType, cytoscape.Css.NodeShape> = {
-  person: 'ellipse', place: 'round-rectangle', event: 'diamond', time: 'hexagon', artifact: 'rectangle', spirit: 'star',
-}
 
 const edgeColors: Record<RelationType, string> = {
   occurred_at: '#9c7652', associated_person: '#b6534f', embodies_spirit: '#7d4b83', precedes: '#47717b', route_to: '#c7932f',
@@ -48,8 +41,8 @@ export default function GraphCanvas({ nodes, relations, selectedNodeId, onSelect
         {
           selector: 'node',
           style: {
-            'background-color': (element) => nodeColors[element.data('nodeType') as NodeType],
-            shape: (element) => nodeShapes[element.data('nodeType') as NodeType],
+            'background-color': (element) => nodeTypePresentation[element.data('nodeType') as NodeType].color,
+            shape: (element) => nodeTypePresentation[element.data('nodeType') as NodeType].shape,
             label: 'data(label)',
             color: '#3b2924',
             'font-size': '13px',

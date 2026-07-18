@@ -2,6 +2,7 @@ import { ArrowRight, BookOpen, MapPin, Network } from 'lucide-react'
 import { graphData } from '../data/graphData'
 import { nodeTypeLabels } from '../data/types'
 import { getRouteStops } from '../lib/graph'
+import NodeMarker from './NodeMarker'
 
 interface RouteViewProps { onOpenGraph: (nodeId: string) => void }
 
@@ -23,7 +24,7 @@ export default function RouteView({ onOpenGraph }: RouteViewProps) {
                 {index === 1 && <p className="formal-name">中国共产党代表团驻沪办事处旧址</p>}
                 <p>{stop.summary}</p>
                 <div className="route-related">
-                  {related.map((node) => node && <span key={node.id}><i className={`node-marker type-${node.type}`} />{node.name}<small>{nodeTypeLabels[node.type]}</small></span>)}
+                  {related.map((node) => node && <span key={node.id}><NodeMarker type={node.type} />{node.name}<small>{nodeTypeLabels[node.type]}</small></span>)}
                 </div>
                 <button type="button" onClick={() => onOpenGraph(stop.id)}>在图谱中查看 <Network size={17} /></button>
               </article>
@@ -32,7 +33,7 @@ export default function RouteView({ onOpenGraph }: RouteViewProps) {
           )
         })}
       </ol>
-      <aside className="route-note"><BookOpen size={22} /><div><strong>研学成果如何数字化？</strong><p>将现场观察拆分为人物、地点、事件、时间、文物与精神谱系六类节点，再通过可追溯关系重新连接，让单篇心得变成可搜索、可验证、可继续扩充的数字资源。</p></div></aside>
+      <aside className="route-note"><BookOpen size={22} /><div><strong>研学成果如何数字化？</strong><p>将现场观察拆分为人物、地点、事件、时间、文物与精神内涵六类节点，再通过可追溯关系重新连接，让单篇心得变成可搜索、可验证、可继续扩充的数字资源。</p></div></aside>
     </section>
   )
 }

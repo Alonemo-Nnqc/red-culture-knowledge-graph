@@ -56,9 +56,11 @@ export interface Source {
   id: string
   title: string
   publisher: string
+  hostPublisher?: string
   sourceType: 'official_museum' | 'party_history' | 'government' | 'archive' | 'academic' | 'publication' | 'onsite_label' | 'activity_record'
   authorityTier: 'S' | 'A' | 'B' | 'C'
   author?: string
+  photoCredit?: string
   publicationDate?: string
   canonicalUrl?: string
   identifier?: string
@@ -79,7 +81,7 @@ export const nodeTypeLabels: Record<NodeType, string> = {
   event: '事件',
   time: '时间',
   artifact: '文物',
-  spirit: '精神谱系',
+  spirit: '精神内涵',
 }
 
 export const relationTypeLabels: Record<RelationType, string> = {

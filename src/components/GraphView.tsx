@@ -4,6 +4,7 @@ import { graphData } from '../data/graphData'
 import { nodeTypeLabels, nodeTypes, relationTypeLabels, relationTypes, type GraphNode, type NodeType, type RelationType } from '../data/types'
 import { filterGraph, searchNodes } from '../lib/graph'
 import DetailPanel from './DetailPanel'
+import NodeMarker from './NodeMarker'
 
 const GraphCanvas = lazy(() => import('./GraphCanvas'))
 
@@ -64,7 +65,7 @@ export default function GraphView({ initialNodeId, onNodeChange, enabledNodeType
             <div className="search-results" role="region" aria-label="搜索结果">
               {results.length ? results.map((node) => (
                 <button key={node.id} type="button" aria-label={`查看${node.name}`} onClick={() => selectNode(node.id)}>
-                  <span className={`node-marker type-${node.type}`} />
+                  <NodeMarker type={node.type} />
                   <span><strong>{node.name}</strong><small>{nodeTypeLabels[node.type]} · {node.summary}</small></span>
                 </button>
               )) : <p>没有找到匹配节点</p>}
@@ -111,5 +112,5 @@ function toggleSet<T>(values: Set<T>, value: T): Set<T> {
 }
 
 function GraphLegend() {
-  return <div className="legend"><span className="legend-title">图例</span>{nodeTypes.map((type) => <span key={type}><i className={`node-marker type-${type}`} />{nodeTypeLabels[type]}</span>)}<span className="legend-divider" />{relationTypes.map((type) => <span key={type}><i className={`edge-marker relation-${type}`} />{relationTypeLabels[type]}</span>)}</div>
+  return <div className="legend" aria-label="图谱图例"><span className="legend-title">图例</span>{nodeTypes.map((type) => <span key={type}><NodeMarker type={type} />{nodeTypeLabels[type]}</span>)}<span className="legend-divider" />{relationTypes.map((type) => <span key={type}><i className={`edge-marker relation-${type}`} />{relationTypeLabels[type]}</span>)}</div>
 }

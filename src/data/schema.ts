@@ -36,11 +36,14 @@ export const nodeSchema = z.object({
   if (!node.id.startsWith(prefixByType[node.type])) {
     context.addIssue({ code: 'custom', message: '节点 ID 前缀与类型不一致', path: ['id'] })
   }
-  if (node.type === 'artifact' && !['original', 'replica', 'reconstruction'].includes(String(node.attributes.authenticity))) {
-    context.addIssue({ code: 'custom', message: '文物必须注明 original、replica 或 reconstruction', path: ['attributes', 'authenticity'] })
+  if (node.type === 'artifact' && !['original', 'replica', 'reconstruction', 'not_applicable'].includes(String(node.attributes.authenticity))) {
+    context.addIssue({ code: 'custom', message: '文物必须注明 original、replica、reconstruction 或 not_applicable', path: ['attributes', 'authenticity'] })
   }
   if (node.type === 'event' && !node.narrative) {
     context.addIssue({ code: 'custom', message: '事件节点必须包含结构化长叙事', path: ['narrative'] })
+  }
+  if (node.type !== 'event' && node.description.length < 60) {
+    context.addIssue({ code: 'custom', message: '非事件节点介绍不得少于60字', path: ['description'] })
   }
   for (const key of ['startDate', 'endDate', 'birthDate', 'deathDate']) {
     const value = node.attributes[key]
@@ -75,9 +78,11 @@ export const sourceSchema = z.object({
   id: z.string().regex(/^SRC-\d{3}$/),
   title: z.string().min(1),
   publisher: z.string().min(1),
+  hostPublisher: z.string().min(1).optional(),
   sourceType: z.enum(['official_museum', 'party_history', 'government', 'archive', 'academic', 'publication', 'onsite_label', 'activity_record']),
   authorityTier: z.enum(['S', 'A', 'B', 'C']),
   author: z.string().optional(),
+  photoCredit: z.string().optional(),
   publicationDate: dateLikeSchema.optional(),
   canonicalUrl: z.url().optional(),
   identifier: z.string().optional(),

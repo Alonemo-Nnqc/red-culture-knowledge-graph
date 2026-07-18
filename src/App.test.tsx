@@ -26,12 +26,16 @@ describe('研学成果网页', () => {
 
   it('展示节点关系统计和三种视图', () => {
     render(<App />)
+    expect(screen.getByText('“初心启智，数创未来”实践队')).toBeInTheDocument()
     const stats = screen.getByLabelText('知识图谱统计')
     expect(within(stats).getByText('68')).toBeInTheDocument()
     expect(within(stats).getByText('96')).toBeInTheDocument()
     expect(screen.getByRole('tab', { name: '知识图谱' })).toBeInTheDocument()
     expect(screen.getByRole('tab', { name: '研学路线' })).toBeInTheDocument()
     expect(screen.getByRole('tab', { name: '数据与来源' })).toBeInTheDocument()
+    const legend = screen.getByLabelText('图谱图例')
+    expect(within(legend).getByText('精神内涵')).toBeInTheDocument()
+    expect(legend.querySelector('[data-node-type="spirit"]')).toHaveAttribute('data-node-shape', 'star')
   })
 
   it('检索人物并打开可追溯详情', async () => {

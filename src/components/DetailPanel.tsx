@@ -80,7 +80,7 @@ export default function DetailPanel({ node, onClose, onSelectNode }: DetailPanel
             const source = sourcesById.get(citation.sourceId)
             return source && (
               <article key={`${citation.sourceId}-${index}`}>
-                <div className="source-meta"><span>{source.authorityTier}级来源</span><span>{source.publisher}</span></div>
+                <div className="source-meta"><span>{source.authorityTier}级来源</span><span>{source.publisher}{source.hostPublisher ? ` · 载于${source.hostPublisher}` : ''}</span></div>
                 <h4>{source.title}</h4>
                 <p className="locator">定位：{citation.locator}</p>
                 <blockquote>{citation.evidenceExcerpt}</blockquote>
@@ -100,7 +100,7 @@ function NarrativeSection({ index, title, body }: { index: string; title: string
 
 function attributeLabel(key: string): string {
   const labels: Record<string, string> = {
-    roles: '身份', placeSubtype: '地点类型', modernAddress: '现址', historicalAddress: '历史地址', longitude: '经度', latitude: '纬度',
+    roles: '身份', placeSubtype: '地点类型', modernAddress: '旧址现址', historicalAddress: '历史门牌', visitorAddress: '参观地址', longitude: '经度', latitude: '纬度',
     eventSubtype: '事件类型', startDate: '开始时间', endDate: '结束时间', datePrecision: '时间精度', precision: '时间精度', certainty: '说明',
     artifactSubtype: '展项类型', authenticity: '性质', year: '年代', currentHolder: '收藏/管理单位', heritageLevel: '文物级别',
     spiritSubtype: '精神类型', formulationStatus: '表述状态', interpretationOrigin: '解释来源',
@@ -109,6 +109,6 @@ function attributeLabel(key: string): string {
 }
 
 function attributeValue(value: string | number | boolean): string {
-  const values: Record<string, string> = { original: '原件', replica: '复制品', reconstruction: '复原场景/展陈', official: '正式表述', curatorial: '场馆阐释' }
+  const values: Record<string, string> = { original: '原件', replica: '复制品', reconstruction: '复原场景/展陈', not_applicable: '不适用', official: '正式表述', curatorial: '场馆阐释' }
   return values[String(value)] ?? String(value)
 }

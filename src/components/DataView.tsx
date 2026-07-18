@@ -53,7 +53,7 @@ function RelationsTable({ rows }: { rows: typeof graphData.relations }) {
 }
 
 function SourcesTable({ rows }: { rows: typeof graphData.sources }) {
-  return <table><thead><tr><th>ID</th><th>来源题名</th><th>发布机构</th><th>等级</th><th>类型</th><th>访问日期</th><th>链接</th></tr></thead><tbody>{rows.map((source) => <tr key={source.id}><td><code>{source.id}</code></td><td><strong>{source.title}</strong><small>{source.notes}</small></td><td>{source.publisher}</td><td><span className="authority-tier">{source.authorityTier}</span></td><td>{source.sourceType}</td><td>{source.accessedAt}</td><td>{source.canonicalUrl ? <a href={source.canonicalUrl} target="_blank" rel="noopener noreferrer" aria-label={`打开${source.title}`}><ExternalLink size={17} /></a> : '—'}</td></tr>)}</tbody></table>
+  return <table><thead><tr><th>ID</th><th>来源题名</th><th>原始发布者 / 转载载体</th><th>等级</th><th>类型</th><th>访问日期</th><th>链接</th></tr></thead><tbody>{rows.map((source) => <tr key={source.id}><td><code>{source.id}</code></td><td><strong>{source.title}</strong><small>{source.notes}</small></td><td>{source.publisher}{source.hostPublisher && <small>载于：{source.hostPublisher}</small>}</td><td><span className="authority-tier">{source.authorityTier}</span></td><td>{source.sourceType}</td><td>{source.accessedAt}</td><td>{source.canonicalUrl ? <a href={source.canonicalUrl} target="_blank" rel="noopener noreferrer" aria-label={`打开${source.title}`}><ExternalLink size={17} /></a> : '—'}</td></tr>)}</tbody></table>
 }
 
 function scopeLabel(scope: string) { return ({ yida: '一大', zhougongguan: '周公馆', longhua: '龙华', cross_site: '跨点位' } as Record<string, string>)[scope] ?? scope }

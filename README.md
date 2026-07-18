@@ -1,6 +1,6 @@
 # 上海红色文化知识图谱
 
-“从一大初心到智能未来”上海红色研学数字成果。项目以中共一大纪念馆、周公馆和龙华烈士陵园为三处核心点位，将研学内容建模为人物、地点、事件、时间、文物、精神谱系六类节点。
+“从一大初心到智能未来”上海红色研学数字成果。项目以中共一大纪念馆、周公馆和龙华烈士陵园为三处核心点位，将研学内容建模为人物、地点、事件、时间、文物、精神内涵六类节点。
 
 在线访问：[GitHub Pages](https://alonemo-nnqc.github.io/red-culture-knowledge-graph/)
 
@@ -29,7 +29,7 @@ pnpm e2e
 
 - `src/data/raw/nodes.json`：68 个节点
 - `src/data/raw/relations.json`：96 条关系
-- `src/data/raw/sources.json`：30 个来源
+- `src/data/raw/sources.json`：27 个来源
 - `public/data/`：构建时生成的 `graph.json` 与三张 UTF-8 CSV
 
 核心史实均带来源编号、定位信息与短证据摘录。研学路线与历史时间顺序使用不同关系类型，避免概念混淆。
